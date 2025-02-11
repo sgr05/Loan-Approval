@@ -1,2 +1,2 @@
 # NewIctProject
-New project done on 3rd December
+The goal of this project is to develop a machine learning model that predicts whether an applicant is eligible for a loan based on their financial and demographic information. By analyzing historical loan application data, the model will classify applicants as either "Eligible" or "Not Eligible." This will help financial institutions make data-driven decisions while minimizing default risks
